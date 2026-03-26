@@ -45,7 +45,7 @@ The project focuses on delivering an interactive user experience with dynamic UI
 
 🔗 Live Demo
 
-👉 View Live Demo
+👉  https://hazem-wageh.github.io/Special-Design/
 
 📚 What I Learned
 Building customizable UI using JavaScript
